@@ -16,5 +16,6 @@ alias gp="git push origin"
 echo
 ls
 echo ________________________________________________________________
+echo
 ps
 echo
