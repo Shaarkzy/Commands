@@ -17,4 +17,6 @@ pkg install neofetch
 
 pkg install file
 pkg install openssl-tool
-
+pkg install tree
+pkg install htop
+pkg install ldd
