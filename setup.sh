@@ -20,3 +20,8 @@ pkg install openssl-tool
 pkg install tree
 pkg install htop
 pkg install ldd
+
+pkg install nmap
+pkg install w3m
+pkg install whois
+pkg install rustscan
